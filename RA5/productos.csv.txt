@@ -1,0 +1,3 @@
+101;Teclado mecánico;Periféricos;59.99;12
+102;Monitor 24 pulgadas;Pantallas;129.50;7
+103;Ratón inalámbrico;Periféricos;19.90;25
