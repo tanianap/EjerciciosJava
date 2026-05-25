@@ -1,0 +1,6 @@
+casa
+oso
+radar
+perro
+reconocer
+sol

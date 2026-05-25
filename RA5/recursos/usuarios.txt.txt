@@ -1,0 +1,7 @@
+usuario1:password123
+juan.perez:qwerty789
+test_User:abc12345
+developer:devPass2026
+user_demo:demo1234
+root:toor123
+odoo:grupopic
